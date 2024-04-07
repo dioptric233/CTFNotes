@@ -1,4 +1,4 @@
-# RSA基础加解密(pqe)
+# RSA基础加解密(pq dpdq)
  通过buu rsa1一题写出脚本
 
  ```
@@ -20,6 +20,6 @@ def main():
 if __name__ == "__main__":
     main()
  ```
-dp泄露的原理 https://blog.csdn.net/MikeCoke/article/details/106095234 
+dpdq推导的原理 https://blog.csdn.net/MikeCoke/article/details/105959599
 
 再通过十六进制转化为字符串
